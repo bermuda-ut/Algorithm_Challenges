@@ -138,7 +138,7 @@ nemesistest(int israndom, arrtype array[]) {
     timespent = ((double) end - start) / CLOCKS_PER_SEC;
     printf("Nemesis array with %d values, %d time(s).\n",
             TEST_SIZE, TEST_FREQ);
-    printf("Execusion time: %.4fs\n", timespent);
+    printf("Execution time: %.4fs\n", timespent);
     printf("\n");
 }
 
@@ -168,7 +168,7 @@ test(int israndom, arrtype array[]) {
     timespent = ((double) end - start) / CLOCKS_PER_SEC;
     printf("Sorted arrays with %d random values, %d times.\n",
             TEST_SIZE, TEST_FREQ);
-    printf("Execusion time: %.4fs\n", timespent);
+    printf("Execution time: %.4fs\n", timespent);
     printf("\n");
 }
 
