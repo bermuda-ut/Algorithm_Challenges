@@ -1,0 +1,4 @@
+   s   h   e       s   e   l   l   s       s   h   e
+  -1   0   0   0   0   1   0   0   0   1   0   1   2
+STRING: she sells she shells she sells shush
+1 found.
